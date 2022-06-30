@@ -9,13 +9,14 @@
 
 ### Technologies
 
-* .NET Framework / .NET Core
-* ASP.NET / ASP.NET Core
-* AngularJS / Angular
-* React
+* .NET / ASP.NET
+* Typescript
+* Angular / React
 * Ionic / Capacitor
 * Azure
-* OAuth / Azure Authentication
+* Cosmos
 * Microsoft SQL Server
 * PowerShell
-* Git / GitHub / GitHub Actions / TeamCity
+* Event Sourcing
+* Azure Service Bus / MassTransit
+* Git / GitHub / ADO / TeamCity
