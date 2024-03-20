@@ -9,7 +9,7 @@
 ### Projects
 
 🦦 [LogOtter](https://github.com/LogOtter/log-otter): A collection of libraries to help create modern microservices using CosmosDB and Event Sourcing and the tools to test them.
-💻 [Kong Portal CLI)(https://github.com/AButler/kong-portal-cli): A CLI tool for pushing API Products, Versions & Documents to Kong Konnect
+💻 [Kong Portal CLI](https://github.com/AButler/kong-portal-cli): A CLI tool for pushing API Products, Versions & Documents to Kong Konnect
 
 ### Technologies
 
