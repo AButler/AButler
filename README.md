@@ -1,7 +1,5 @@
 ### Andrew Butler
 
-🌐 Website: [atbutler.co.uk](https://atbutler.co.uk) 
-
 📧 Email: jobs@atbutler.co.uk
 
 👨‍💻 Engineering Manager / Full Stack Software Developer
@@ -11,6 +9,8 @@
 🦦 [LogOtter](https://github.com/LogOtter/log-otter): A collection of libraries to help create modern microservices using CosmosDB and Event Sourcing and the tools to test them.
 
 💻 [Kong Portal CLI](https://github.com/AButler/kong-portal-cli): A CLI tool for pushing API Products, Versions & Documents to Kong Konnect
+
+👷‍♂️ [OpenApiValidate](https://github.com/AButler/openapi-validate): A dotnet library for validating whether an API response matches against an OpenAPI document
 
 ### Technologies
 
